@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "koGmLKBR6wJhBLTN1OoI6FzGeJiAPNWbDjy33J5YenLAJHGwnEo6Ux/28C8eaBjdEIfv8DSjhatgCExrp1KcrA==",
+  "dgSpecHash": "Ka41ClyBUyCc9Ch5i7f7s6SDE587LJKulMWeRvqjeh1M9P2OmylbbyYO5AgOlat+UztZVTD/H8Y1oCoeZlPLyQ==",
   "success": true,
-  "projectFilePath": "\\\\vmware-host\\Shared Folders\\Desktop\\ORM-and-Dapper-Exercise\\ORM-Dapper\\ORM-Dapper.csproj",
+  "projectFilePath": "C:\\Users\\isaia\\repos\\ORMDapperExercise\\ORM-Dapper\\ORM-Dapper.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
